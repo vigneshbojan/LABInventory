@@ -6,7 +6,7 @@ namespace LABInventory
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var MyServer = new Server();
         }
     }
 }
